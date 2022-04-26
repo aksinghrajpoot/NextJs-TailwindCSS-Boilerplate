@@ -2,7 +2,7 @@
 
 ### Clone this repository
 
-`git clone https://github.com/aksinghrajpoot/NextJs-Tailwind-Boilerplate.git`
+`git clone https://github.com/aksinghrajpoot/NextJs-TailwindCSS-Boilerplate.git`
 
 ### Run Command
 
